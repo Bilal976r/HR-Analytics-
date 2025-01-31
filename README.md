@@ -6,17 +6,17 @@ This project includes a **HR Analytics Dashboard** built using **Power BI**, whi
 ## Project Structure
 HR-Analytics-Dashboard 
 
- │── /data
+ │── /data |
 
    ├── HR_Analytics.csv 
 
- │── /dashboard 
+ │── /dashboard |
 
    ├── Workforce Analytics Dashboard.pbix 
 
- │── /assets 
+ │── /assets |
 
-   ├── BG12.jpg 
+   ├── background.jpg 
 
  │── README.md 
 
