@@ -1,0 +1,13 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore dataset backups
+/data/*.bak
+
+# Ignore Power BI auto-generated files
+*.pbix.lock
